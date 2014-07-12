@@ -17,11 +17,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.greenorange.ezklt</string>
+				<string>com.greenorange.ezkty</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>外勤管家</string>
+				<string>E掌控</string>
 			</dict>
 		</dict>
 	</array>
